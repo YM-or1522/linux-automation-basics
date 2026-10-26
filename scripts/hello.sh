@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+name="Learner"
+echo "Hello, $name"
+for i in 1 2 3 4 5; do
+  echo "Count: $i"
+done
